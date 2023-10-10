@@ -46,3 +46,4 @@ gantt
     成果發表      :a12, after a11  , 25d
 
 ```
+![PERT](PERT.jpg "PERT")
