@@ -1,10 +1,14 @@
 表格:
 | 任務 | 說明 | 需時(天) | 前置任務 |
 |:-------------|:---------------:|-----:|:---------------:|
-| 1 |some wordy text  |$1600 |some wordy text  |
-| 2 |centered         |$12   |some wordy text  |
-| 3 | are neat        |$1    |some wordy text  |
-| 4 |測試          |$3333 |some wordy text  |
-| 5 | Less            | Pretty |some wordy text  |
-| 6 |rendres          |nicely|some wordy text  |
-|1             |2                |3     |some wordy text  |
+| 1 | 研擬計畫 | 1 | 1 |
+| 2 | 任務分配 | 4 | 1 |
+| 3 | 搜集資料 | 17 | 3 |
+| 4 | 建置開發環境 | 70 | 5 |
+| 5 | 3D建模 | 10 | 5 |
+| 6 | APP開發 | 30 | 20 |
+| 7 | 後端開發 | 25 | 30 |
+| 8 | 程式測試 | 20 | 10 |
+| 9 | 撰寫使用者手冊 | 25 | 10 |
+| 10 | 使用者訓練 | 20 | 15 |
+| 11 | 使用者測試 | 25 | 10 |
