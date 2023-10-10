@@ -18,7 +18,7 @@ gantt
     title 甘特圖
 
     section 1
-    研擬計畫           :a1, 2023-01-01, 1d
+    研擬計畫           :a1, 2023-10-01, 1d
     section 2
     任務分配      :a2, after a1  , 4d
     section 3
