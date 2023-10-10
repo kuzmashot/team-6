@@ -13,7 +13,7 @@
 | 10 | 使用者訓練 | 20 | 15 |
 | 11 | 使用者測試 | 25 | 10 |
 
-mermaid
+```mermaid
 gantt
     title 甘特圖
 
@@ -41,4 +41,5 @@ gantt
     使用者測試      :a11, after a9 and a10  , 25d
     section 12
     成果發表      :a12, after a11  , 25d
-...
+
+```
