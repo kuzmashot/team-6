@@ -47,4 +47,4 @@
 | 後置條件  | 使用者瀏覽完將案件加入歷史紀錄 |
 | 假設  | 無 |
 # Figma
-![app](AR HOUSE.png "使用畫面")
+![APP](ARHOUSE.png "使用案例圖")
