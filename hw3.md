@@ -47,4 +47,5 @@
 | 後置條件  | 使用者瀏覽完將案件加入歷史紀錄 |
 | 假設  | 無 |
 # Figma
-![APP](ARHOUSE.png "使用案例圖")
+![APP](AR.png "使用案例圖")
+[Figma連結](https://www.figma.com/file/7qImpu6JUuXq4x4HhQmmO0/AR-HOUSE?type=design&node-id=0%3A1&mode=design&t=qmSADcj3bZ6AQVut-1)
